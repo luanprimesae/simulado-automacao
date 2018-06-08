@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Fluxo - Deletar Usuário">
+	<test name="Fluxo - Deletar Usuário">
+		<classes>
+			<class name="digital.sae.stage.simulado.DeleteUserFlow" />
+		</classes>
+	</test>
+</suite>

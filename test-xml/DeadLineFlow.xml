@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Fluxo - Configuração das Deadlines">
+	<test name="Fluxo - Configuração das Deadlines">
+		<classes>
+			<class name="digital.sae.stage.simulado.DeadLineFlow" />
+		</classes>
+	</test>
+</suite>

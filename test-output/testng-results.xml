@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Fluxo - Criação de Usuário" duration-ms="31062" started-at="2018-06-01T12:16:09Z" finished-at="2018-06-01T12:16:40Z">
+    <groups>
+    </groups>
+    <test name="Fluxo - Criação de Usuário" duration-ms="31062" started-at="2018-06-01T12:16:09Z" finished-at="2018-06-01T12:16:40Z">
+      <class name="digital.sae.stage.simulado.CreateUserFlow">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:digital.sae.stage.simulado.CreateUserFlow@5442a311]" name="beforeClass" is-config="true" duration-ms="3341" started-at="2018-06-01T09:16:09Z" finished-at="2018-06-01T09:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="createUserFlow()[pri:0, instance:digital.sae.stage.simulado.CreateUserFlow@5442a311]" name="createUserFlow" duration-ms="27719" started-at="2018-06-01T09:16:13Z" finished-at="2018-06-01T09:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserFlow -->
+      </class> <!-- digital.sae.stage.simulado.CreateUserFlow -->
+    </test> <!-- Fluxo - Criação de Usuário -->
+  </suite> <!-- Fluxo - Criação de Usuário -->
+  <suite name="Fluxo - Criar vínculo Escola/Prova" duration-ms="15645" started-at="2018-06-01T12:18:13Z" finished-at="2018-06-01T12:18:29Z">
+    <groups>
+    </groups>
+    <test name="Fluxo - Criar vínculo Escola/Prova" duration-ms="15645" started-at="2018-06-01T12:18:13Z" finished-at="2018-06-01T12:18:29Z">
+      <class name="digital.sae.stage.simulado.SchoolExam">
+        <test-method status="PASS" signature="schoolExam()[pri:0, instance:digital.sae.stage.simulado.SchoolExam@14bf9759]" name="schoolExam" duration-ms="15644" started-at="2018-06-01T09:18:13Z" finished-at="2018-06-01T09:18:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- schoolExam -->
+      </class> <!-- digital.sae.stage.simulado.SchoolExam -->
+    </test> <!-- Fluxo - Criar vínculo Escola/Prova -->
+  </suite> <!-- Fluxo - Criar vínculo Escola/Prova -->
+  <suite name="Fluxo - Alterar Data da Prova" duration-ms="15602" started-at="2018-06-01T12:18:29Z" finished-at="2018-06-01T12:18:44Z">
+    <groups>
+    </groups>
+    <test name="Fluxo - Alterar Data da Prova" duration-ms="15602" started-at="2018-06-01T12:18:29Z" finished-at="2018-06-01T12:18:44Z">
+      <class name="digital.sae.stage.simulado.Exam">
+        <test-method status="PASS" signature="exam()[pri:0, instance:digital.sae.stage.simulado.Exam@59ec2012]" name="exam" duration-ms="15601" started-at="2018-06-01T09:18:29Z" finished-at="2018-06-01T09:18:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exam -->
+      </class> <!-- digital.sae.stage.simulado.Exam -->
+    </test> <!-- Fluxo - Alterar Data da Prova -->
+  </suite> <!-- Fluxo - Alterar Data da Prova -->
+  <suite name="Fluxo - Deletar Escola" duration-ms="11456" started-at="2018-06-01T12:15:58Z" finished-at="2018-06-01T12:16:09Z">
+    <groups>
+    </groups>
+    <test name="Fluxo - Deletar Escola" duration-ms="11456" started-at="2018-06-01T12:15:58Z" finished-at="2018-06-01T12:16:09Z">
+      <class name="digital.sae.stage.simulado.DeleteSchoolFlow">
+        <test-method status="PASS" signature="deleteSchoolFlow()[pri:0, instance:digital.sae.stage.simulado.DeleteSchoolFlow@7cd62f43]" name="deleteSchoolFlow" duration-ms="11455" started-at="2018-06-01T09:15:58Z" finished-at="2018-06-01T09:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteSchoolFlow -->
+      </class> <!-- digital.sae.stage.simulado.DeleteSchoolFlow -->
+    </test> <!-- Fluxo - Deletar Escola -->
+  </suite> <!-- Fluxo - Deletar Escola -->
+  <suite name="Fluxo - Configuração das Deadlines" duration-ms="92647" started-at="2018-06-01T12:16:40Z" finished-at="2018-06-01T12:18:13Z">
+    <groups>
+    </groups>
+    <test name="Fluxo - Configuração das Deadlines" duration-ms="92647" started-at="2018-06-01T12:16:40Z" finished-at="2018-06-01T12:18:13Z">
+      <class name="digital.sae.stage.simulado.DeadLineFlow">
+        <test-method status="PASS" signature="deadLineFlow()[pri:0, instance:digital.sae.stage.simulado.DeadLineFlow@464bee09]" name="deadLineFlow" duration-ms="92647" started-at="2018-06-01T09:16:40Z" finished-at="2018-06-01T09:18:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deadLineFlow -->
+      </class> <!-- digital.sae.stage.simulado.DeadLineFlow -->
+    </test> <!-- Fluxo - Configuração das Deadlines -->
+  </suite> <!-- Fluxo - Configuração das Deadlines -->
+  <suite name="Fluxo - Deletar Usuário" duration-ms="16453" started-at="2018-06-01T12:15:41Z" finished-at="2018-06-01T12:15:58Z">
+    <groups>
+    </groups>
+    <test name="Fluxo - Deletar Usuário" duration-ms="16453" started-at="2018-06-01T12:15:41Z" finished-at="2018-06-01T12:15:58Z">
+      <class name="digital.sae.stage.simulado.DeleteUserFlow">
+        <test-method status="PASS" signature="deleteUserFlow()[pri:0, instance:digital.sae.stage.simulado.DeleteUserFlow@39aeed2f]" name="deleteUserFlow" duration-ms="16437" started-at="2018-06-01T09:15:41Z" finished-at="2018-06-01T09:15:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserFlow -->
+      </class> <!-- digital.sae.stage.simulado.DeleteUserFlow -->
+    </test> <!-- Fluxo - Deletar Usuário -->
+  </suite> <!-- Fluxo - Deletar Usuário -->
+  <suite name="Usabilidade Completa do Simulado" duration-ms="110294" started-at="2018-06-01T12:18:44Z" finished-at="2018-06-01T12:20:35Z">
+    <groups>
+    </groups>
+    <test name="Usabilidade Completa do Simulado" duration-ms="110294" started-at="2018-06-01T12:18:44Z" finished-at="2018-06-01T12:20:35Z">
+      <class name="digital.sae.stage.simulado.CompleteUsabilityFlow">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:digital.sae.stage.simulado.CompleteUsabilityFlow@5bcab519]" name="beforeClass" is-config="true" duration-ms="2834" started-at="2018-06-01T09:18:44Z" finished-at="2018-06-01T09:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="completeUsabilityFlow()[pri:0, instance:digital.sae.stage.simulado.CompleteUsabilityFlow@5bcab519]" name="completeUsabilityFlow" duration-ms="107459" started-at="2018-06-01T09:18:47Z" finished-at="2018-06-01T09:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeUsabilityFlow -->
+      </class> <!-- digital.sae.stage.simulado.CompleteUsabilityFlow -->
+    </test> <!-- Usabilidade Completa do Simulado -->
+  </suite> <!-- Usabilidade Completa do Simulado -->
+  <suite name="Test Suite - Simulado" duration-ms="0" started-at="2018-06-01T12:20:35Z" finished-at="2018-06-01T12:20:35Z">
+    <groups>
+    </groups>
+  </suite> <!-- Test Suite - Simulado -->
+</testng-results>

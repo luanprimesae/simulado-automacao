@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Fluxo - Configuração das Deadlines]">
+  <test name="Fluxo - Configuração das Deadlines(failed)">
+    <classes>
+      <class name="digital.sae.stage.simulado.DeadLineFlow">
+        <methods>
+          <include name="deadLineFlow"/>
+        </methods>
+      </class> <!-- digital.sae.stage.simulado.DeadLineFlow -->
+    </classes>
+  </test> <!-- Fluxo - Configuração das Deadlines(failed) -->
+</suite> <!-- Failed suite [Fluxo - Configuração das Deadlines] -->

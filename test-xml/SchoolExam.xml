@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Fluxo - Criar vínculo Escola/Prova">
+	<test name="Fluxo - Criar vínculo Escola/Prova">
+		<classes>
+			<class name="digital.sae.stage.simulado.SchoolExam" />
+		</classes>
+	</test>
+</suite>

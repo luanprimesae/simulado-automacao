@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Fluxo - Criação de Usuário]">
+  <test name="Fluxo - Criação de Usuário(failed)">
+    <classes>
+      <class name="digital.sae.stage.simulado.CreateUserFlow">
+        <methods>
+          <include name="createUserFlow"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- digital.sae.stage.simulado.CreateUserFlow -->
+    </classes>
+  </test> <!-- Fluxo - Criação de Usuário(failed) -->
+</suite> <!-- Failed suite [Fluxo - Criação de Usuário] -->

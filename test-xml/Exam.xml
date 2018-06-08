@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Fluxo - Alterar Data da Prova">
+	<test name="Fluxo - Alterar Data da Prova">
+		<classes>
+			<class name="digital.sae.stage.simulado.Exam" />
+		</classes>
+	</test>
+</suite>

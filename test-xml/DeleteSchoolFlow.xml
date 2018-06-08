@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Fluxo - Deletar Escola">
+	<test name="Fluxo - Deletar Escola">
+		<classes>
+			<class name="digital.sae.stage.simulado.DeleteSchoolFlow" />
+		</classes>
+	</test>
+</suite>

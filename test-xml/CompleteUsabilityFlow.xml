@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Usabilidade Completa do Simulado">
+	<test name="Usabilidade Completa do Simulado">
+		<classes>
+			<class name="digital.sae.stage.simulado.CompleteUsabilityFlow" />
+		</classes>
+	</test>
+</suite>

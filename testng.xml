@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test Suite - Simulado" preserve-order="true">
+    <suite-files>
+        <suite-file path="test-xml/DeleteUserFlow.xml"></suite-file>
+        <suite-file path="test-xml/DeleteSchoolFlow.xml"></suite-file>
+        <suite-file path="test-xml/CreateUserFlow.xml"></suite-file>
+        <suite-file path="test-xml/DeadLineFlow.xml"></suite-file>
+        <suite-file path="test-xml/SchoolExam.xml"></suite-file>
+        <suite-file path="test-xml/Exam.xml"></suite-file>
+        <suite-file path="test-xml/CompleteUsabilityFlow.xml"></suite-file>
+    </suite-files>
+</suite>

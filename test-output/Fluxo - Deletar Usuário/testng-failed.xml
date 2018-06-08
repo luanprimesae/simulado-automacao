@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Fluxo - Deletar Usuário]">
+  <test name="Fluxo - Deletar Usuário(failed)">
+    <classes>
+      <class name="digital.sae.stage.simulado.DeleteUserFlow">
+        <methods>
+          <include name="deleteUserFlow"/>
+        </methods>
+      </class> <!-- digital.sae.stage.simulado.DeleteUserFlow -->
+    </classes>
+  </test> <!-- Fluxo - Deletar Usuário(failed) -->
+</suite> <!-- Failed suite [Fluxo - Deletar Usuário] -->

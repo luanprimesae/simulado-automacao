@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Usabilidade Completa do Simulado]">
+  <test name="Usabilidade Completa do Simulado(failed)">
+    <classes>
+      <class name="digital.sae.stage.simulado.CompleteUsabilityFlow">
+        <methods>
+          <include name="completeUsabilityFlow"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- digital.sae.stage.simulado.CompleteUsabilityFlow -->
+    </classes>
+  </test> <!-- Usabilidade Completa do Simulado(failed) -->
+</suite> <!-- Failed suite [Usabilidade Completa do Simulado] -->
